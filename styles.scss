@@ -5,7 +5,8 @@
  */
 
 // Foundation
-@import "../../../node_modules/foundation-sites/assets/foundation-float";
+// @import "../../../node_modules/foundation-sites/assets/foundation-float";
+@import "../../../node_modules/foundation-sites/assets/foundation-prototype";
 
 // Modules
 @import "modules/variables";
@@ -14,11 +15,11 @@
 
 // Partials
 @import "partials/reset";
-@import "partials/wordpress";
 @import "partials/utils";
-@import "partials/wrapper";
 @import "partials/header";
-@import "partials/nav";
-@import "partials/sidebar";
+// @import "partials/wordpress";
+// @import "partials/wrapper";
+// @import "partials/nav";
+// @import "partials/sidebar";
 @import "partials/footer";
 @import "partials/print";
